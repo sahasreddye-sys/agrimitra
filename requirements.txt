@@ -1,0 +1,29 @@
+# Core ML / Deep Learning
+torch==2.2.0
+torchvision==0.17.0
+
+# fast.ai (for lessons + training utilities)
+fastai==2.7.14
+
+# Data handling
+numpy==1.26.4
+pandas==2.2.1
+scikit-learn==1.4.1
+Pillow==10.2.0
+opencv-python==4.9.0.80
+
+# Dataset downloading
+datasets==2.18.0        # HuggingFace datasets (PlantVillage)
+kaggle==1.6.3           # Kaggle API
+
+# Web app
+streamlit==1.32.2
+
+# Visualization
+matplotlib==3.8.3
+seaborn==0.13.2
+
+# Utilities
+tqdm==4.66.2
+requests==2.31.0
+python-dotenv==1.0.1

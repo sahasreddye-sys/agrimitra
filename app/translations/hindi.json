@@ -1,0 +1,152 @@
+{
+  "_meta": {
+    "language": "Hindi",
+    "script": "Devanagari",
+    "version": "1.0"
+  },
+
+  "Tomato___Bacterial_spot": {
+    "crop_name":    "टमाटर",
+    "disease_name": "बैक्टीरियल स्पॉट",
+    "symptoms":     "पत्तियों पर छोटे पानी जैसे धब्बे, बाद में भूरे रंग के हो जाते हैं।",
+    "treatment":    "कॉपर-आधारित फफूंदनाशक का उपयोग करें। संक्रमित पत्तियाँ तुरंत हटाएँ।",
+    "prevention":   "पत्तियों को गीला न करें। पौधों के बीच पर्याप्त दूरी रखें।",
+    "organic_first": true
+  },
+
+  "Tomato___Early_blight": {
+    "crop_name":    "टमाटर",
+    "disease_name": "अर्ली ब्लाइट (प्रारंभिक झुलसा)",
+    "symptoms":     "पत्तियों पर भूरे लक्ष्य-आकार के धब्बे, चारों ओर पीला घेरा।",
+    "treatment":    "नीम तेल का छिड़काव करें या कॉपर फफूंदनाशक उपयोग करें।",
+    "prevention":   "फसल चक्र अपनाएँ। निचली पत्तियाँ हटाएँ।",
+    "organic_first": true
+  },
+
+  "Tomato___Late_blight": {
+    "crop_name":    "टमाटर",
+    "disease_name": "लेट ब्लाइट (पछेता झुलसा)",
+    "symptoms":     "पत्तियों पर काले-भूरे पानी जैसे धब्बे, नमी में सफेद परत।",
+    "treatment":    "कॉपर फफूंदनाशक या मेटालैक्सिल का उपयोग करें।",
+    "prevention":   "पानी जमा न होने दें। रात में पत्तियाँ न भीगें।",
+    "organic_first": false
+  },
+
+  "Tomato___Tomato_mosaic_virus": {
+    "crop_name":    "टमाटर",
+    "disease_name": "मोज़ेक वायरस",
+    "symptoms":     "पत्तियों पर हल्के-गहरे हरे रंग का मोज़ेक पैटर्न। पौधे की वृद्धि रुकना।",
+    "treatment":    "कोई उपचार नहीं। संक्रमित पौधे तुरंत हटाएँ।",
+    "prevention":   "वायरस-प्रतिरोधी किस्में लगाएँ। कीट नियंत्रण करें।",
+    "organic_first": true
+  },
+
+  "Tomato___healthy": {
+    "crop_name":    "टमाटर",
+    "disease_name": "स्वस्थ पौधा",
+    "symptoms":     "पौधा स्वस्थ है।",
+    "treatment":    "कोई उपचार आवश्यक नहीं।",
+    "prevention":   "संतुलित सिंचाई और उर्वरक जारी रखें।",
+    "organic_first": true
+  },
+
+  "Potato___Early_Blight": {
+    "crop_name":    "आलू",
+    "disease_name": "अर्ली ब्लाइट",
+    "symptoms":     "पत्तियों पर कोणीय भूरे धब्बे।",
+    "treatment":    "कॉपर फफूंदनाशक या मैंकोज़ेब का उपयोग करें।",
+    "prevention":   "फसल चक्र। निचली पत्तियाँ हटाएँ।",
+    "organic_first": true
+  },
+
+  "Potato___Late_Blight": {
+    "crop_name":    "आलू",
+    "disease_name": "लेट ब्लाइट",
+    "symptoms":     "पत्तियों पर पानी जैसे धब्बे, नमी में सफेद परत।",
+    "treatment":    "कॉपर फफूंदनाशक या मेटालैक्सिल।",
+    "prevention":   "पत्तियों पर पानी न डालें।",
+    "organic_first": false
+  },
+
+  "Potato___healthy": {
+    "crop_name":    "आलू",
+    "disease_name": "स्वस्थ पौधा",
+    "symptoms":     "पौधा स्वस्थ है।",
+    "treatment":    "कोई उपचार आवश्यक नहीं।",
+    "prevention":   "उचित जल प्रबंधन जारी रखें।",
+    "organic_first": true
+  },
+
+  "Pepper,_bell___Bacterial_spot": {
+    "crop_name":    "शिमला मिर्च",
+    "disease_name": "बैक्टीरियल स्पॉट",
+    "symptoms":     "पत्तियों पर पानी जैसे धब्बे, फलों पर घाव।",
+    "treatment":    "कॉपर स्प्रे। संक्रमित हिस्से हटाएँ।",
+    "prevention":   "पत्तियाँ गीली न होने दें।",
+    "organic_first": true
+  },
+
+  "Pepper,_bell___healthy": {
+    "crop_name":    "शिमला मिर्च",
+    "disease_name": "स्वस्थ पौधा",
+    "symptoms":     "पौधा स्वस्थ है।",
+    "treatment":    "कोई उपचार आवश्यक नहीं।",
+    "prevention":   "संतुलित सिंचाई जारी रखें।",
+    "organic_first": true
+  },
+
+  "Okra___Leaf_Curly_Virus": {
+    "crop_name":    "भिंडी",
+    "disease_name": "पत्ती मरोड़ वायरस",
+    "symptoms":     "पत्तियाँ मुड़ जाती हैं और पीली हो जाती हैं।",
+    "treatment":    "कोई उपचार नहीं। संक्रमित पौधे हटाएँ। सफेद मक्खी नियंत्रण करें।",
+    "prevention":   "नीम तेल स्प्रे। प्रतिरोधी किस्में लगाएँ।",
+    "organic_first": true
+  },
+
+  "Okra___healthy": {
+    "crop_name":    "भिंडी",
+    "disease_name": "स्वस्थ पौधा",
+    "symptoms":     "पौधा स्वस्थ है।",
+    "treatment":    "कोई उपचार आवश्यक नहीं।",
+    "prevention":   "साप्ताहिक निवारक नीम तेल स्प्रे की सलाह दी जाती है।",
+    "organic_first": true
+  },
+
+  "Mango___Anthracnose": {
+    "crop_name":    "आम",
+    "disease_name": "एन्थ्रेक्नोज",
+    "symptoms":     "पत्तियों और फलों पर काले धब्बे। फल झड़ना।",
+    "treatment":    "कॉपर फफूंदनाशक या मैंकोज़ेब का छिड़काव करें।",
+    "prevention":   "पेड़ के नीचे गिरी पत्तियाँ और फल साफ करें।",
+    "organic_first": true
+  },
+
+  "Mango___healthy": {
+    "crop_name":    "आम",
+    "disease_name": "स्वस्थ पौधा",
+    "symptoms":     "पौधा स्वस्थ है।",
+    "treatment":    "कोई उपचार आवश्यक नहीं।",
+    "prevention":   "फूल आने पर निवारक कॉपर स्प्रे की सलाह।",
+    "organic_first": true
+  },
+
+  "_community_beta": {
+    "ivy_gourd": {
+      "crop_name":    "तिंडोरा / कुंदरू",
+      "beta_message": "इस फसल के लिए डेटा एकत्र किया जा रहा है। फ़ोटो भेजें!"
+    },
+    "gongura": {
+      "crop_name":    "गोंगुरा (रोसेल)",
+      "beta_message": "इस फसल के लिए डेटा एकत्र किया जा रहा है। फ़ोटो भेजें!"
+    },
+    "curry_leaves": {
+      "crop_name":    "करी पत्ता",
+      "beta_message": "इस फसल के लिए डेटा एकत्र किया जा रहा है। फ़ोटो भेजें!"
+    },
+    "thotakura": {
+      "crop_name":    "चौलाई (अमरनाथ)",
+      "beta_message": "इस फसल के लिए डेटा एकत्र किया जा रहा है। फ़ोटो भेजें!"
+    }
+  }
+}

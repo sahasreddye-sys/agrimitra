@@ -1,0 +1,234 @@
+{
+  "_meta": {
+    "language": "Telugu",
+    "script": "Telugu",
+    "version": "1.0",
+    "notes": "Keys are PlantVillage-style class names. Add community crop keys manually."
+  },
+
+  "Tomato___Bacterial_spot": {
+    "crop_name":    "టమాటో",
+    "disease_name": "బ్యాక్టీరియల్ స్పాట్",
+    "symptoms":     "ఆకులపై చిన్న నీటిలాంటి మచ్చలు, తర్వాత గోధుమ రంగులోకి మారుతాయి.",
+    "treatment":    "కాపర్ ఆధారిత శిలీంద్రనాశకాన్ని వాడండి. సోకిన ఆకులను వెంటనే తొలగించండి.",
+    "prevention":   "మొక్కలపై నీళ్ళు చల్లేటప్పుడు ఆకులు తడవకుండా జాగ్రత్తపడండి. మొక్కల మధ్య తగినంత దూరం ఉంచండి.",
+    "organic_first": true
+  },
+
+  "Tomato___Early_blight": {
+    "crop_name":    "టమాటో",
+    "disease_name": "ఎర్లీ బ్లైట్ (తొలి రోగం)",
+    "symptoms":     "ఆకులపై లక్ష్య-రూప గోధుమ మచ్చలు, చుట్టూ పసుపు రంగు వలయం.",
+    "treatment":    "వేప నూనె స్ప్రే చేయండి లేదా కాపర్ శిలీంద్రనాశకం వాడండి. రాత్రిపూట తడవకుండా చూసుకోండి.",
+    "prevention":   "పంట మార్పిడి పాటించండి. కింది ఆకులను తొలగించండి.",
+    "organic_first": true
+  },
+
+  "Tomato___Late_blight": {
+    "crop_name":    "టమాటో",
+    "disease_name": "లేట్ బ్లైట్ (పొడవు రోగం)",
+    "symptoms":     "ఆకులపై నీటిలాంటి ముదురు మచ్చలు, తడి వాతావరణంలో తెల్లని పూత.",
+    "treatment":    "కాపర్ ఫంగిసైడ్ లేదా క్లోరోథలోనిల్ వాడండి. సోకిన మొక్కలను వెంటనే తొలగించండి.",
+    "prevention":   "వర్షపు నీరు నిల్వ కాకుండా చూసుకోండి. రాత్రిపూట తడవకుండా వద్దు.",
+    "organic_first": false
+  },
+
+  "Tomato___Leaf_Mold": {
+    "crop_name":    "టమాటో",
+    "disease_name": "ఆకు అచ్చు (లీఫ్ మోల్డ్)",
+    "symptoms":     "ఆకు కింది భాగంలో పసుపు-ఆలివ్ రంగు పూత.",
+    "treatment":    "వేప నూనె లేదా పొటాషియం బైకార్బోనేట్ స్ప్రే చేయండి.",
+    "prevention":   "గాలి చేరేందుకు మొక్కలను పల్చగా నాటండి. తేమ తక్కువగా ఉంచండి.",
+    "organic_first": true
+  },
+
+  "Tomato___Septoria_leaf_spot": {
+    "crop_name":    "టమాటో",
+    "disease_name": "సెప్టోరియా ఆకు మచ్చ",
+    "symptoms":     "చిన్న గుండ్రని మచ్చలు, మధ్యలో తెలుపు, చుట్టూ ముదురు అంచు.",
+    "treatment":    "కాపర్ స్ప్రే లేదా మాంకోజెబ్ వాడండి.",
+    "prevention":   "కింది ఆకులను తొలగించండి. పంట మార్పిడి పాటించండి.",
+    "organic_first": true
+  },
+
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "crop_name":    "టమాటో",
+    "disease_name": "సాలెపురుగు (స్పైడర్ మైట్)",
+    "symptoms":     "ఆకులపై పసుపు చుక్కలు, అడుగుభాగంలో సన్నని నూలు.",
+    "treatment":    "నీమ్ ఆయిల్ స్ప్రే. చల్లని నీళ్ళతో ఆకులు కడగండి.",
+    "prevention":   "వేసవిలో తేమ నిర్వహించండి. సహజ శత్రువులైన లేడీబర్డ్ పురుగులను ప్రోత్సహించండి.",
+    "organic_first": true
+  },
+
+  "Tomato___Target_Spot": {
+    "crop_name":    "టమాటో",
+    "disease_name": "టార్గెట్ స్పాట్",
+    "symptoms":     "గోధుమ రంగు లక్ష్య-ఆకార మచ్చలు, కాయలపై కూడా.",
+    "treatment":    "అజోక్సీస్ట్రోబిన్ లేదా కాపర్ ఫంగిసైడ్ వాడండి.",
+    "prevention":   "ఆకు తడవకుండా నీళ్ళు పోయండి.",
+    "organic_first": false
+  },
+
+  "Tomato___Tomato_mosaic_virus": {
+    "crop_name":    "టమాటో",
+    "disease_name": "మొజాయిక్ వైరస్",
+    "symptoms":     "ఆకులపై ముదురు-లేత పచ్చ మొజాయిక్ నమూనా. మొక్క పెరుగుదల ఆగిపోవడం.",
+    "treatment":    "చికిత్స లేదు. సోకిన మొక్కలను వెంటనే తొలగించండి.",
+    "prevention":   "వైరస్-నిరోధక రకాలు నాటండి. పురుగులను నియంత్రించండి.",
+    "organic_first": true
+  },
+
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "crop_name":    "టమాటో",
+    "disease_name": "పసుపు ఆకు మెలికల వైరస్",
+    "symptoms":     "ఆకులు పసుపు రంగులోకి మారి మెలికలు తిరుగుతాయి.",
+    "treatment":    "చికిత్స లేదు. సోకిన మొక్కలను తొలగించండి.",
+    "prevention":   "తెల్ల ఈగలను నియంత్రించండి. నిమ్మ నూనె స్ప్రే చేయండి.",
+    "organic_first": true
+  },
+
+  "Tomato___healthy": {
+    "crop_name":    "టమాటో",
+    "disease_name": "ఆరోగ్యకరమైన మొక్క",
+    "symptoms":     "మొక్క ఆరోగ్యంగా ఉంది.",
+    "treatment":    "ఏ చికిత్స అవసరం లేదు.",
+    "prevention":   "సమతుల్యమైన నీళ్ళు, ఎరువు కొనసాగించండి.",
+    "organic_first": true
+  },
+
+  "Potato___Early_Blight": {
+    "crop_name":    "బంగాళాదుంప",
+    "disease_name": "ఎర్లీ బ్లైట్",
+    "symptoms":     "ఆకులపై కోణాల మచ్చలు, గోధుమ రంగు.",
+    "treatment":    "కాపర్ శిలీంద్రనాశకం లేదా మాంకోజెబ్ వాడండి.",
+    "prevention":   "పంట మార్పిడి. దిగువ ఆకులను తొలగించండి.",
+    "organic_first": true
+  },
+
+  "Potato___Late_Blight": {
+    "crop_name":    "బంగాళాదుంప",
+    "disease_name": "లేట్ బ్లైట్",
+    "symptoms":     "ఆకులపై నీటిలాంటి మచ్చలు, తడి వాతావరణంలో తెల్లని పూత.",
+    "treatment":    "కాపర్ ఫంగిసైడ్ లేదా మెటలాక్సిల్ వాడండి.",
+    "prevention":   "తగిన దూరంలో నాటండి. నీళ్ళు నేల మీద పోయండి, ఆకులపై కాదు.",
+    "organic_first": false
+  },
+
+  "Potato___healthy": {
+    "crop_name":    "బంగాళాదుంప",
+    "disease_name": "ఆరోగ్యకరమైన మొక్క",
+    "symptoms":     "మొక్క ఆరోగ్యంగా ఉంది.",
+    "treatment":    "ఏ చికిత్స అవసరం లేదు.",
+    "prevention":   "సరైన నీటి నిర్వహణ కొనసాగించండి.",
+    "organic_first": true
+  },
+
+  "Pepper,_bell___Bacterial_spot": {
+    "crop_name":    "పచ్చిమిర్చి",
+    "disease_name": "బ్యాక్టీరియల్ స్పాట్",
+    "symptoms":     "ఆకులపై నీటిలాంటి మచ్చలు, కాయలపై గాయాలు.",
+    "treatment":    "కాపర్ స్ప్రే. సోకిన భాగాలను తొలగించండి.",
+    "prevention":   "ఆకులు తడవకుండా నీళ్ళు పోయండి.",
+    "organic_first": true
+  },
+
+  "Pepper,_bell___healthy": {
+    "crop_name":    "పచ్చిమిర్చి",
+    "disease_name": "ఆరోగ్యకరమైన మొక్క",
+    "symptoms":     "మొక్క ఆరోగ్యంగా ఉంది.",
+    "treatment":    "ఏ చికిత్స అవసరం లేదు.",
+    "prevention":   "సమతుల్యమైన నీళ్ళు కొనసాగించండి.",
+    "organic_first": true
+  },
+
+  "Okra___Leaf_Curly_Virus": {
+    "crop_name":    "బెండకాయ",
+    "disease_name": "ఆకు మెలికల వైరస్",
+    "symptoms":     "ఆకులు మెలికలు తిరుగుతాయి, పసుపు రంగులోకి మారుతాయి.",
+    "treatment":    "చికిత్స లేదు. సోకిన మొక్కలను తొలగించండి. తెల్ల ఈగలను నియంత్రించండి.",
+    "prevention":   "నిమ్మ నూనె స్ప్రే. నిరోధక రకాలు నాటండి.",
+    "organic_first": true
+  },
+
+  "Okra___healthy": {
+    "crop_name":    "బెండకాయ",
+    "disease_name": "ఆరోగ్యకరమైన మొక్క",
+    "symptoms":     "మొక్క ఆరోగ్యంగా ఉంది.",
+    "treatment":    "ఏ చికిత్స అవసరం లేదు.",
+    "prevention":   "వారానికి ఒకసారి నేమ్ ఆయిల్ ప్రివెంటివ్ స్ప్రే సిఫార్సు.",
+    "organic_first": true
+  },
+
+  "Bitter_Gourd___Mosaic_Virus": {
+    "crop_name":    "కాకరకాయ",
+    "disease_name": "మొజాయిక్ వైరస్",
+    "symptoms":     "ఆకులపై పచ్చ-పసుపు మొజాయిక్. పెరుగుదల తగ్గుతుంది.",
+    "treatment":    "సోకిన మొక్కలు తొలగించండి. తెల్ల ఈగ నియంత్రణ.",
+    "prevention":   "నిరోధక విత్తనాలు వాడండి.",
+    "organic_first": true
+  },
+
+  "Bitter_Gourd___healthy": {
+    "crop_name":    "కాకరకాయ",
+    "disease_name": "ఆరోగ్యకరమైన మొక్క",
+    "symptoms":     "మొక్క ఆరోగ్యంగా ఉంది.",
+    "treatment":    "ఏ చికిత్స అవసరం లేదు.",
+    "prevention":   "సమతుల్యమైన నీటి నిర్వహణ కొనసాగించండి.",
+    "organic_first": true
+  },
+
+  "Eggplant___Bacterial_Spot": {
+    "crop_name":    "వంకాయ",
+    "disease_name": "బ్యాక్టీరియల్ స్పాట్",
+    "symptoms":     "ఆకులపై చిన్న గోధుమ మచ్చలు. పండ్లపై గాయాలు.",
+    "treatment":    "కాపర్ స్ప్రే. సోకిన ఆకులు తొలగించండి.",
+    "prevention":   "మొక్కల మధ్య దూరం పాటించండి.",
+    "organic_first": true
+  },
+
+  "Eggplant___healthy": {
+    "crop_name":    "వంకాయ",
+    "disease_name": "ఆరోగ్యకరమైన మొక్క",
+    "symptoms":     "మొక్క ఆరోగ్యంగా ఉంది.",
+    "treatment":    "ఏ చికిత్స అవసరం లేదు.",
+    "prevention":   "నేల సమతుల్యత నిర్వహించండి.",
+    "organic_first": true
+  },
+
+  "Mango___Anthracnose": {
+    "crop_name":    "మామిడి",
+    "disease_name": "అంత్రాక్నోజ్",
+    "symptoms":     "ఆకులు, పండ్లపై నల్లని మచ్చలు. పండ్లు రాలిపోవడం.",
+    "treatment":    "కాపర్ శిలీంద్రనాశకం లేదా మాంకోజెబ్ స్ప్రే చేయండి.",
+    "prevention":   "చెట్టు చుట్టూ పడిన ఆకులు, పండ్లు శుభ్రం చేయండి.",
+    "organic_first": true
+  },
+
+  "Mango___healthy": {
+    "crop_name":    "మామిడి",
+    "disease_name": "ఆరోగ్యకరమైన మొక్క",
+    "symptoms":     "మొక్క ఆరోగ్యంగా ఉంది.",
+    "treatment":    "ఏ చికిత్స అవసరం లేదు.",
+    "prevention":   "పూత దశలో ప్రివెంటివ్ కాపర్ స్ప్రే సిఫార్సు.",
+    "organic_first": true
+  },
+
+  "_community_beta": {
+    "ivy_gourd": {
+      "crop_name":    "దొండకాయ",
+      "beta_message": "ఈ పంటకు డేటా సేకరణ జరుగుతోంది. ఫోటో పంపండి!"
+    },
+    "gongura": {
+      "crop_name":    "గోంగూర",
+      "beta_message": "ఈ పంటకు డేటా సేకరణ జరుగుతోంది. ఫోటో పంపండి!"
+    },
+    "curry_leaves": {
+      "crop_name":    "కరివేపాకు",
+      "beta_message": "ఈ పంటకు డేటా సేకరణ జరుగుతోంది. ఫోటో పంపండి!"
+    },
+    "thotakura": {
+      "crop_name":    "తోటకూర",
+      "beta_message": "ఈ పంటకు డేటా సేకరణ జరుగుతోంది. ఫోటో పంపండి!"
+    }
+  }
+}

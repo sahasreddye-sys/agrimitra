@@ -1,0 +1,143 @@
+{
+  "_meta": {
+    "language": "Gujarati",
+    "script": "Gujarati",
+    "version": "1.0"
+  },
+
+  "Tomato___Bacterial_spot": {
+    "crop_name":    "ટમેટા",
+    "disease_name": "બેક્ટેરિયલ સ્પોટ",
+    "symptoms":     "પાન પર નાના પાણી જેવા ડાઘ, પછી ભૂરા રંગના થઈ જાય છે.",
+    "treatment":    "કોપર-આધારિત ફૂગનાશકનો ઉપયોગ કરો. ચેપગ્રસ્ત પાંદડા તરત દૂર કરો.",
+    "prevention":   "પાંદડા ભીના ન કરો. છોડ વચ્ચે પૂરતું અંતર રાખો.",
+    "organic_first": true
+  },
+
+  "Tomato___Early_blight": {
+    "crop_name":    "ટમેટા",
+    "disease_name": "અર્લી બ્લાઇટ",
+    "symptoms":     "પાન પર ભૂરા ટાર્ગેટ-આકારના ડાઘ, ચારે બાજુ પીળો ઘેરો.",
+    "treatment":    "લીમડાના તેલનો છંટકાવ કરો અથવા કોપર ફૂગનાશક વાપરો.",
+    "prevention":   "પાક ફેરફાર અપનાવો. નીચળા પાંદડા દૂર કરો.",
+    "organic_first": true
+  },
+
+  "Tomato___Late_blight": {
+    "crop_name":    "ટમેટા",
+    "disease_name": "લેટ બ્લાઇટ",
+    "symptoms":     "પાન પર ઘેરા-ભૂરા ડાઘ, ભેજમાં સફેદ આવરણ.",
+    "treatment":    "કોપર ફૂગનાશક અથવા મેટાલૅક્સિલ વાપરો.",
+    "prevention":   "પાણી ભેગું ન થવા દો. રાત્રે પાન ભીના ન કરો.",
+    "organic_first": false
+  },
+
+  "Tomato___healthy": {
+    "crop_name":    "ટમેટા",
+    "disease_name": "સ્વસ્થ છોડ",
+    "symptoms":     "છોડ સ્વસ્થ છે.",
+    "treatment":    "કોઈ સારવારની જરૂર નથી.",
+    "prevention":   "સંતુલિત સિંચાઈ અને ખાતર ચાલુ રાખો.",
+    "organic_first": true
+  },
+
+  "Potato___Early_Blight": {
+    "crop_name":    "બટાકા",
+    "disease_name": "અર્લી બ્લાઇટ",
+    "symptoms":     "પાન પર ખૂણાવાળા ભૂરા ડાઘ.",
+    "treatment":    "કોપર ફૂગનાશક અથવા મૅન્કોઝેબ.",
+    "prevention":   "પાક ફેરફાર. નીચળા પાંદડા દૂર કરો.",
+    "organic_first": true
+  },
+
+  "Potato___Late_Blight": {
+    "crop_name":    "બટાકા",
+    "disease_name": "લેટ બ્લાઇટ",
+    "symptoms":     "પાન પર પાણી જેવા ડાઘ, ભેજમાં સફેદ આવરણ.",
+    "treatment":    "કોપર ફૂગનાશક અથવા મેટાલૅક્સિલ.",
+    "prevention":   "પાંદડા પર પાણી ન પાડો.",
+    "organic_first": false
+  },
+
+  "Potato___healthy": {
+    "crop_name":    "બટાકા",
+    "disease_name": "સ્વસ્થ છોડ",
+    "symptoms":     "છોડ સ્વસ્થ છે.",
+    "treatment":    "કોઈ સારવારની જરૂર નથી.",
+    "prevention":   "યોગ્ય પાણી વ્યવસ્થાપન ચાલુ રાખો.",
+    "organic_first": true
+  },
+
+  "Pepper,_bell___Bacterial_spot": {
+    "crop_name":    "શિમલા મરચું",
+    "disease_name": "બેક્ટેરિયલ સ્પોટ",
+    "symptoms":     "પાન પર પાણી જેવા ડાઘ, ફળ પર ઘા.",
+    "treatment":    "કોપર સ્પ્રે. ચેપગ્રસ્ત ભાગ દૂર કરો.",
+    "prevention":   "પાંદડા ભીના ન થવા દો.",
+    "organic_first": true
+  },
+
+  "Pepper,_bell___healthy": {
+    "crop_name":    "શિમલા મરચું",
+    "disease_name": "સ્વસ્થ છોડ",
+    "symptoms":     "છોડ સ્વસ્થ છે.",
+    "treatment":    "કોઈ સારવારની જરૂર નથી.",
+    "prevention":   "સંતુલિત સિંચાઈ ચાલુ રાખો.",
+    "organic_first": true
+  },
+
+  "Okra___Leaf_Curly_Virus": {
+    "crop_name":    "ભીંડા",
+    "disease_name": "પર્ણ વળ વાઇરસ",
+    "symptoms":     "પાંદડા વળી જાય અને પીળા પડે.",
+    "treatment":    "કોઈ સારવાર નહીં. ચેપી છોડ દૂર કરો. સફેદ માખી નિયંત્રણ.",
+    "prevention":   "લીમડા તેલ સ્પ્રે. પ્રતિકારક જાત વાવો.",
+    "organic_first": true
+  },
+
+  "Okra___healthy": {
+    "crop_name":    "ભીંડા",
+    "disease_name": "સ્વસ્થ છોડ",
+    "symptoms":     "છોડ સ્વસ્થ છે.",
+    "treatment":    "કોઈ સારવારની જરૂર નથી.",
+    "prevention":   "સાપ્તાહિક નિવારક લીમડા તેલ સ્પ્રે ભલામણ.",
+    "organic_first": true
+  },
+
+  "Mango___Anthracnose": {
+    "crop_name":    "કેરી",
+    "disease_name": "એન્થ્રેકનોઝ",
+    "symptoms":     "પાન અને ફળ પર કાળા ડાઘ. ફળ ખરી પડવું.",
+    "treatment":    "કોપર ફૂગનાશક અથવા મૅન્કોઝેબ સ્પ્રે.",
+    "prevention":   "ઝાડ નીચે પડેલ પાંદડા અને ફળ સાફ કરો.",
+    "organic_first": true
+  },
+
+  "Mango___healthy": {
+    "crop_name":    "કેરી",
+    "disease_name": "સ્વસ્થ છોડ",
+    "symptoms":     "છોડ સ્વસ્થ છે.",
+    "treatment":    "કોઈ સારવારની જરૂર નથી.",
+    "prevention":   "ફૂલ આવે ત્યારે નિવારક કોપર સ્પ્રે ભલામણ.",
+    "organic_first": true
+  },
+
+  "_community_beta": {
+    "ivy_gourd": {
+      "crop_name":    "તિંડોળા",
+      "beta_message": "આ પાક માટે ડેટા એકત્ર થઈ રહ્યો છે. ફોટો મોકલો!"
+    },
+    "gongura": {
+      "crop_name":    "ગોંગુરા",
+      "beta_message": "આ પાક માટે ડેટા એકત્ર થઈ રહ્યો છે. ફોટો મોકલો!"
+    },
+    "curry_leaves": {
+      "crop_name":    "લીમડો (કઢી)",
+      "beta_message": "આ પાક માટે ડેટા એકત્ર થઈ રહ્યો છે. ફોટો મોકલો!"
+    },
+    "thotakura": {
+      "crop_name":    "રાજગરો",
+      "beta_message": "આ પાક માટે ડેટા એકત્ર થઈ રહ્યો છે. ફોટો મોકલો!"
+    }
+  }
+}
