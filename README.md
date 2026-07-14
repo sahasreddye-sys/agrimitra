@@ -97,8 +97,6 @@ drive.mount('/content/drive')
 | Curry Leaves | కరివేపాకు | First public disease dataset |
 | Amaranth | తోటకూర (Thotakura) | First public disease dataset |
 
-Community images collected at Sri Hanuman Mandir, Forsyth County Indian community gardens, and GATA events. Dataset published on HuggingFace and Kaggle.
-
 ---
 
 ## Tech stack
